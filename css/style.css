@@ -1,0 +1,335 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.gap-5 {
+    gap: 3rem;
+}
+
+.navbar {
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.nav-link {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+}
+
+.gap-3 {
+    gap: 2rem;
+}
+
+.list-unstyled li {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-btn {
+    width: 180px;
+    text-align: center;
+    margin-left: 37px;
+}
+
+.input-group-text {
+    background-color: white !important;
+
+    border-right: none !important;
+}
+
+.form-email {
+    border-left: none !important;
+    outline: none !important;
+    /* margin-bottom: 1rem !important; */
+}
+
+.log_container{
+    width: 40%;
+}
+.contact-form{
+    width: 40%;
+    font-family: 'Raleway', sans-serif;
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.login_h2{
+text-align: center;
+font-family: 'Raleway', sans-serif;
+}
+.btn-icon img{
+    margin-right: 2rem;
+}
+.btn_login{
+width: 15rem;
+
+}
+
+.Main_passenger{
+    gap: 13rem;
+}
+.Passenger_detiles{
+    gap: 14rem;
+}
+
+.Main_center {
+    gap: 11rem;
+}
+
+.Main{
+gap: 15rem;
+}
+.center_detiles{
+    gap: 14rem;
+}
+
+
+.detiles{
+ gap: 16rem;   
+}
+.my_booking{
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Raleway', sans-serif;
+
+}
+.Profile_detiles{
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Raleway', sans-serif;
+}
+.Main_detiles{
+    gap: 17rem;
+   
+}
+.contact_paraghraph{
+    margin-right: 11rem;
+}
+.pick_up{
+    gap: 6rem;
+}
+.Main_booking{
+    gap: 8rem;
+    font-size: 20px;
+    margin-right: 4rem;
+}
+.center_arow{
+    margin-right: 1rem;
+}
+.try_booking{
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Raleway', sans-serif;  
+    margin-left: 20rem; 
+}
+.verify_book{
+    font-family: 'Raleway', sans-serif;
+color: #FF0000;
+margin-left: 20rem;
+}
+.form_col{
+    width: 42%;
+    margin-left: 10rem;
+}
+.confirm_tiket{
+    padding: 1rem;
+}
+.cancel-btn{
+    margin-left: 7rem;
+}
+.main_text{
+    color: #FF0000;
+    font-family: 'Raleway', sans-serif;  
+}
+.image_box{
+    margin-left: 28rem;
+}
+.cancel{
+    margin-top: 6rem;
+    /* margin-left: 7rem; */
+}
+.main_group{
+    width: 27%;
+    margin-left: 29rem;
+}
+.Enter_box{
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Raleway', sans-serif; 
+    height: 240px;  
+    font-size: 20px; 
+}
+
+.booking{
+    gap: 5rem;
+}
+.button {
+    background-color:#59DA44;
+
+}
+.dropdown_btn{
+    gap: 6rem;
+}
+.Main_address{
+    gap: 5rem;
+}
+.Already_text{
+margin-bottom: 1rem;
+font-family: 'Raleway', sans-serif;
+}
+.Already_text span{
+    color: blue;
+    font-size: 17px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.first_shadow{
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.sign-icon{
+margin-left: 9px;
+}
+.btn_today button{
+width: 80px;
+/* margin-right: 2rem; */
+}
+.Tomorrow{
+    margin-left: 5rem;
+    font-size: 16px;
+    text-align: center;
+    
+    
+}
+.Search_bar button{
+    margin-top: 5rem;
+}
+.box_shadow{
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+    font-family: 'Raleway', sans-serif;
+}
+.safely_icon{
+margin-left: 6rem;
+
+}
+.Covid_box{
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+.box_seat{
+    font-family: 'Raleway', sans-serif;  
+}
+.COVID-19{
+    font-family: 'Raleway', sans-serif;
+
+}
+.box_side{
+    flex-direction: column;
+    display: flex;
+    float: right;
+}
+.bus-style{
+   
+    font-family: 'Raleway', sans-serif;
+    margin: 0 auto;
+}
+.container-bus{
+    width: 700px;
+    padding: 25px;
+}
+.firsttwobox{
+    padding-right: 20px;
+    justify-content: space-around;
+}
+.Point{
+    margin-right: 13rem;
+    font-family: 'Raleway', sans-serif;
+}
+.list_Para{
+    margin-left: 1rem;
+}
+.right_btn{
+    margin-right: 1rem;
+}
+
+.justify-content-space-between{
+    justify-content:space-between ;
+}
+.seats_loker{
+    font-family: 'Raleway', sans-serif;
+}
+.main_p{
+    margin-left: 1rem;
+}
+.Picks_box{
+    flex-direction: column;
+    width: 70%;
+    margin-left: 9rem;
+    font-family: 'Raleway', sans-serif;
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.center_main{
+    font-family: 'Raleway', sans-serif;
+    margin-left: 7rem;
+}
+.form_test{
+    gap: 1rem;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
+}
+.continue_btn{
+    font-family: 'Raleway', sans-serif; 
+}
+.form-control{
+    font-family: 'Raleway', sans-serif;  
+}
+.box_center{
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.submit_btn{
+    margin-left: 20rem;
+    margin-bottom: 3rem;
+}
+.conferm{
+    margin-left: 1rem;
+}
+.searchbr{
+    margin-left: 1rem;
+}
+.login-passanger{
+    justify-content: center;
+    gap: 3rem;
+   
+}
+.box_btn {
+    box-shadow:  0px 4px 4px rgba(0, 0, 0, 0.25); 
+    font-family: 'Raleway', sans-serif; 
+}
+.selected{
+    font-family: 'Raleway', sans-serif;
+    font-size: 12px; 
+}
+.pick{
+    font-family: 'Raleway', sans-serif;
+}
+.pass_list{
+margin-left: 5rem;
+font-family: 'Raleway', sans-serif;
+}
+.passanger{
+    font-family: 'Raleway', sans-serif;  
+}
+
+@media screen and (max-width: 990px) {
+    .gap-5 {
+        gap: 1rem;
+    }
+
+    .navbar-light .navbar-toggler {
+        border: none !important;
+    }
+
+}
